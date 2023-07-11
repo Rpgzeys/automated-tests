@@ -1,0 +1,74 @@
+﻿body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    background-image: url(https://phonoteka.org/uploads/posts/2022-02/1644411052_1-phonoteka-org-p-fon-izumrudnogo-tsveta-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    width: 300px;
+    height: 320px;
+    padding: 40px;
+    background-image: url(https://bogatyr.club/uploads/posts/2021-11/thumbs/1636920765_4-bogatyr-club-p-fon-dlya-prilozheniya-4.jpg);
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    position: relative;
+}
+
+h1 {
+    text-align: center;
+    color: #ffffff;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+form {
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    color: #ffffff;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+input {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 3px;
+    background-color: #ffffff;
+    color: #2c3e50;
+}
+
+button {
+    width: 150px;
+    margin: auto;
+    margin-top: 20px;
+    font-weight: bold;
+    justify-content: center;
+    padding: 12px;
+    background-color: #114198;
+    color: #ffffff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #1a5276;
+}
+
+#result {
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+}

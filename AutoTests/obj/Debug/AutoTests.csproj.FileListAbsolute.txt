@@ -1,0 +1,12 @@
+D:\#-VS\AutoTests\bin\Debug\selenium-manager\linux\selenium-manager
+D:\#-VS\AutoTests\bin\Debug\selenium-manager\macos\selenium-manager
+D:\#-VS\AutoTests\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\#-VS\AutoTests\bin\Debug\AutoTests.exe.config
+D:\#-VS\AutoTests\bin\Debug\AutoTests.exe
+D:\#-VS\AutoTests\bin\Debug\AutoTests.pdb
+D:\#-VS\AutoTests\bin\Debug\WebDriver.dll
+D:\#-VS\AutoTests\obj\Debug\AutoTests.csproj.AssemblyReference.cache
+D:\#-VS\AutoTests\obj\Debug\AutoTests.csproj.CoreCompileInputs.cache
+D:\#-VS\AutoTests\obj\Debug\AutoTests.csproj.CopyComplete
+D:\#-VS\AutoTests\obj\Debug\AutoTests.exe
+D:\#-VS\AutoTests\obj\Debug\AutoTests.pdb
